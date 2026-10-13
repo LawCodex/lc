@@ -4,6 +4,7 @@ identifier: "civil-aviation-licensing-act-1960-of-the-united-kingdom"
 type: act
 jurisdiction: lc
 language: en
+enactment: "Chapter 38, 8 & 9 Eliz. 2"
 last_amended: 2023-12-31
 status: in_force
 source: "https://attorneygeneralchambers.com/laws-of-saint-lucia/civil-aviation-licensing-act-1960-of-the-united-kingdom"

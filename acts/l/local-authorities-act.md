@@ -4,6 +4,7 @@ identifier: "local-authorities-act"
 type: act
 jurisdiction: lc
 language: en
+enactment: "No. 134 of 1916 Revision"
 last_amended: 2023-12-31
 status: in_force
 source: "https://attorneygeneralchambers.com/laws-of-saint-lucia/local-authorities-act"

@@ -4,7 +4,7 @@ identifier: "supreme-court-act"
 type: act
 jurisdiction: lc
 language: en
-enactment: "S.I. 1967 No.223 (U.K."
+enactment: "S.I. 1967 No.223 (U.K.) 1975 No.1 (U.K.), 1977 No.3 (U.K.), 1978 No.1901 (U.K.), 2/1975, 64/1985, 19/1993, 33/1994, 36/1994, 58/2001, 95/2008, 96/2008, 44/2009, 110/2012, 111/2012, 112/2012, 1/2016, 51/2020 and 52/2020"
 last_amended: 2023-12-31
 status: in_force
 source: "https://attorneygeneralchambers.com/laws-of-saint-lucia/supreme-court-act"

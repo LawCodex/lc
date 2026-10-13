@@ -1781,13 +1781,13 @@ In settling accounts between the partners after a dissolution of partnership, th
 
 (b) the assets of the firm, including the sums, if any, contributed by the partners to make up losses or deficiencies of capital, shall be applied in the following manner and order
 
-1. In paying the debts and liabilities of the firm to persons who are not partners therein.
+**1.** In paying the debts and liabilities of the firm to persons who are not partners therein.
 
-2. In paying to each partner rateably what is due from the firm to him or her for advances as distinguished from capital.
+**2.** In paying to each partner rateably what is due from the firm to him or her for advances as distinguished from capital.
 
-3. In paying to each partner rateably what is due from the firm to him or her in respect of capital.
+**3.** In paying to each partner rateably what is due from the firm to him or her in respect of capital.
 
-4. The ultimate residue, if any, shall be divided among the partners in the proportion in which profits are divisible.
+**4.** The ultimate residue, if any, shall be divided among the partners in the proportion in which profits are divisible.
 
 ## TITLE 3 LIMITED PARTNERSHIPS
 
@@ -6703,25 +6703,25 @@ Cabinet may make and prescribe rules and forms for carrying into effect the obje
 
 *Rules made under the authority of the Registration of the United Kingdom Patents Ordinance, No. 19 of 1924, now Article 660A of the Commercial Code*
 
-1. (a)     An application for a certificate of registration shall mutatis mutandis be in the form of an application for a patent and it shall be signed by the grantee or person deriving his or her right from the grantee and by all proper parties required to join in the application and the signature of any such grantee, person or party shall be authenticated to the satisfaction of the Registrar.
+**1.** (a)     An application for a certificate of registration shall mutatis mutandis be in the form of an application for a patent and it shall be signed by the grantee or person deriving his or her right from the grantee and by all proper parties required to join in the application and the signature of any such grantee, person or party shall be authenticated to the satisfaction of the Registrar.
 
 (b) The application shall be accompanied by the document or documents (duly authenticated to the satisfaction of the Registrar) required by article 660A of the Commercial Code or which are otherwise necessary or required to prove the right of the applicant to have the patent registered in Saint Lucia and a certificate of registration issued in respect thereof.
 
 (c) A certificate of registration shall be in the Form A in the Schedule, and shall be sealed with the Public Seal of Saint Lucia.
 
-2. An application for entry on the register under paragraph 9 of article 660A shall in the case of individuals be made and signed by the person applying for such entry, or by his or her agent duly authorised to the satisfaction of the Registrar, and in the case of a body corporate by the agent, authorised in like manner.
+**2.** An application for entry on the register under paragraph 9 of article 660A shall in the case of individuals be made and signed by the person applying for such entry, or by his or her agent duly authorised to the satisfaction of the Registrar, and in the case of a body corporate by the agent, authorised in like manner.
 
-3. Every such application shall state the name, address and description of the applicant, and the particulars of the assignment, transmission, or other operation of law, by virtue of which he or she applies for such entry, so as to show the manner in which, and the person or persons to whom the privileges and rights conferred by the certificate of registration or any interest therein have been assigned or transmitted.
+**3.** Every such application shall state the name, address and description of the applicant, and the particulars of the assignment, transmission, or other operation of law, by virtue of which he or she applies for such entry, so as to show the manner in which, and the person or persons to whom the privileges and rights conferred by the certificate of registration or any interest therein have been assigned or transmitted.
 
-4. Every assignment and every other document containing, giving effect to, or being evidence of, the transmission of the privileges and rights conferred by a certificate of registration or interest therein, as claimed by such application, except such documents as are matters of record, shall be produced to the Registrar, together with the application above prescribed, and such other proof of title as he or she may require for his or her satisfaction.
+**4.** Every assignment and every other document containing, giving effect to, or being evidence of, the transmission of the privileges and rights conferred by a certificate of registration or interest therein, as claimed by such application, except such documents as are matters of record, shall be produced to the Registrar, together with the application above prescribed, and such other proof of title as he or she may require for his or her satisfaction.
 
      As to a document which is a matter of record, an official or certified copy shall in like manner be produced to the Registrar.
 
-5. There shall also be left with the application an attested copy of the assignment or other document above required to be produced.
+**5.** There shall also be left with the application an attested copy of the assignment or other document above required to be produced.
 
      As to a document which is a matter of record, an official or certified copy shall be left with the application in lieu of an attested copy.
 
-6. An application for entry on the register of an assignment, transmission or other instrument shall be in the Form B in the Schedule.
+**6.** An application for entry on the register of an assignment, transmission or other instrument shall be in the Form B in the Schedule.
 
 ## Schedule
 

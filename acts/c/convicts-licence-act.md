@@ -4,6 +4,7 @@ identifier: "convicts-licence-act"
 type: act
 jurisdiction: lc
 language: en
+enactment: "Law 70 of the 1889"
 last_amended: 2023-12-31
 status: in_force
 source: "https://attorneygeneralchambers.com/laws-of-saint-lucia/convicts-licence-act"

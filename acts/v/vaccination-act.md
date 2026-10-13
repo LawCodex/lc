@@ -4,6 +4,7 @@ identifier: "vaccination-act"
 type: act
 jurisdiction: lc
 language: en
+enactment: "Chapter 61 of the 1889 Revision, Acts 12 of 1902, 5 of 1904 and 24 of 1955"
 last_amended: 2023-12-31
 status: in_force
 source: "https://attorneygeneralchambers.com/laws-of-saint-lucia/vaccination-act"

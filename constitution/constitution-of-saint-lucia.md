@@ -4,7 +4,7 @@ identifier: "constitution-of-saint-lucia"
 type: constitution
 jurisdiction: lc
 language: en
-enactment: "Statutory Instrument 1978 No. 1901 (U.K."
+enactment: "Statutory Instrument 1978 No. 1901 (U.K.) Schedule 1, Acts 17 of 1980, 2 of 2023 and 7 of 2023"
 last_amended: 2023-12-31
 status: in_force
 source: "https://attorneygeneralchambers.com/laws-of-saint-lucia/constitution-of-saint-lucia"

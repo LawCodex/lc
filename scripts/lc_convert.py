@@ -95,6 +95,8 @@ def main():
             parts.append(md)
         title = info["title"].strip()
         kind, rel = classify(law["slug"], title)
+        if kind == "code":  # article numbers are inline paragraphs: make them bold labels
+            parts = [re.sub(r"^(\d{1,4}[A-Za-z]{0,2})\. +", r"**\1.** ", p_, flags=re.M) for p_ in parts]
         m = re.search(r"as at (\d{1,2} \w+ \d{4})", info.get("description", ""))
         cons = ""
         if m:
@@ -103,7 +105,8 @@ def main():
             except ValueError:
                 cons = ""
         first = parts[0] if parts else ""
-        mm = re.search(r"\(((?:Act|Ordinance|S\.I\.|Statutory)[^)]{0,300})\)", first)
+        mm = re.search(r"^\*\*\((.{3,400})\)\*\*\s*$", first, re.M) or \
+            re.search(r"\(((?:Act|Ordinance|S\.I\.|Statutory)[^)]{0,300})\)", first)
         fm = ["---", "title: " + yq(title), "identifier: " + yq(law["slug"]),
               "type: " + kind, "jurisdiction: lc", "language: en"]
         if mm:

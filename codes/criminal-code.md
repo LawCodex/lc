@@ -13143,27 +13143,27 @@ Except as otherwise expressly provided in this Code or any other enactment, the 
 
 Permission is hereby granted to ….................... of ….................... to operate a loudspeaker in the of …...................................... on the …..................... under mentioned ….................. conditions—
 
-1. Name of Applicant ….............................................................................
+**1.** Name of Applicant ….............................................................................
 
-2. On whose behalf ….............................................................................
+**2.** On whose behalf ….............................................................................
 
-3. Date of operation ….............................................................................
+**3.** Date of operation ….............................................................................
 
-4. Hours of operation ….............................................................................
+**4.** Hours of operation ….............................................................................
 
-5. Purpose
-
-….....................................................................................................................
-
-….....................................................................................................................
-
-6. Route (if applicable)
+**5.** Purpose
 
 ….....................................................................................................................
 
 ….....................................................................................................................
 
-7. Other conditions.
+**6.** Route (if applicable)
+
+….....................................................................................................................
+
+….....................................................................................................................
+
+**7.** Other conditions.
 
 Dated this …................... day of ….....................................,
 
@@ -14536,9 +14536,9 @@ Accused [in correctional facility or bail].
 
 Witnesses for the Crown.
 
-1. Name and residence.
+**1.** Name and residence.
 
-2. Name and residence
+**2.** Name and residence
 
 And similarly for any other.
 
@@ -14602,11 +14602,11 @@ The [etc.] presents that the accused on [time and place] with intent to hinder t
 
 The [etc.] presents that the accused [time and place] published a defamatory libel concerning W.Y., in the form of a letter addressed to J.B., which said letter contained the following defamatory matters concerning the said W.Y., contrary to section, etc.-
 
-1. Do you know that about the year 1886 your friend W.Y. was in the employ of L. and J. and that his or her accounts were found to be all wrong? [meaning thereby that W.Y. was guilty of acts of dishonesty and falsification of accounts whilst he or she was in the employ of L. and J.
+**1.** Do you know that about the year 1886 your friend W.Y. was in the employ of L. and J. and that his or her accounts were found to be all wrong? [meaning thereby that W.Y. was guilty of acts of dishonesty and falsification of accounts whilst he or she was in the employ of L. and J.
 
-2. As soon as his or her defalcations were discovered and a warrant was applied for he or she fled to [meaning thereby that the said W.Y. was a fugitive from justice].
+**2.** As soon as his or her defalcations were discovered and a warrant was applied for he or she fled to [meaning thereby that the said W.Y. was a fugitive from justice].
 
-3. Sometime after this he or she appears to have returned to for he or she was found to be keeping a disorderly house in the [meaning thereby that he or she said W.Y. had committed the criminal offence of keeping a disorderly house].
+**3.** Sometime after this he or she appears to have returned to for he or she was found to be keeping a disorderly house in the [meaning thereby that he or she said W.Y. had committed the criminal offence of keeping a disorderly house].
 
 (See Form No. 78 for Notice of Plea of Justification to the foregoing Form for Libel.)
 
@@ -14708,13 +14708,13 @@ Take notice that the accused intends at the trial to plead that the accused has 
 
 *PARTICULARS*
 
-1. On the …........................ day of …........................, 20, W.Y. received the sum of from T.S. and on the …........................ day of …........................, 20, W.Y. received the sum of $....................... from C.F., and the sum of $........................... from W.D., on behalf of his or her employers, L. and J., which he or she fraudulently omitted to enter in their books or to account for in any way.
+**1.** On the …........................ day of …........................, 20, W.Y. received the sum of from T.S. and on the …........................ day of …........................, 20, W.Y. received the sum of $....................... from C.F., and the sum of $........................... from W.D., on behalf of his or her employers, L. and J., which he or she fraudulently omitted to enter in their books or to account for in any way.
 
-2. On the day of, 20, soon after W.Y.'s defalcations were discovered and a warrant was applied for against him or her upon charges of stealing his or her employers' money and falsifying their books, W.Y. left …........................ on a ship called …........................ bound for
+**2.** On the day of, 20, soon after W.Y.'s defalcations were discovered and a warrant was applied for against him or her upon charges of stealing his or her employers' money and falsifying their books, W.Y. left …........................ on a ship called …........................ bound for
 
-3. On the …........................ day of …........................ and on other days in the year …........................ W.Y. kept a house at …........................ for the purpose of betting, contrary to
+**3.** On the …........................ day of …........................ and on other days in the year …........................ W.Y. kept a house at …........................ for the purpose of betting, contrary to
 
-4. The accused says it was for the public good that the defamatory matters charged in the said indictment should be published by reason of the fact that W.Y. was at the time of the publication thereof a candidate for the public office of member of the Council.
+**4.** The accused says it was for the public good that the defamatory matters charged in the said indictment should be published by reason of the fact that W.Y. was at the time of the publication thereof a candidate for the public office of member of the Council.
 
 Dated [etc., as in No. 75.]
 
@@ -15670,7 +15670,7 @@ List of Witnesses.
 
 For complaint …......................... For Defendant.
 
-2. [Name.] ….................................... 1. [Name.]
+**2.** [Name.] ….................................... 1. [Name.]
 
 [add numbers and names of …........................ [add numbers and names of
 
@@ -15818,25 +15818,25 @@ IN THE …........................ DISTRICT COURT held at Case for the opinion o
 
 (Heading as in No. 140.)
 
-1. This is a case in which the defendant was charged with having on [etc., state charge.] Case.
+**1.** This is a case in which the defendant was charged with having on [etc., state charge.] Case.
 
-2. Upon the hearing which took place on the [state date or dates] the following facts were [admitted [or] proved] before me. [Here set out in regular sequence and in numbered paragraphs, such facts as were admitted in or found by the District Court.]
+**2.** Upon the hearing which took place on the [state date or dates] the following facts were [admitted [or] proved] before me. [Here set out in regular sequence and in numbered paragraphs, such facts as were admitted in or found by the District Court.]
 
-3. For the complainant it was contended that. Etc.
+**3.** For the complainant it was contended that. Etc.
 
-4. The complainant cited [Here state the authorities or cases with references.]
+**4.** The complainant cited [Here state the authorities or cases with references.]
 
-5. For the defendant it was contended that, etc.
+**5.** For the defendant it was contended that, etc.
 
-6. The defendant cited [Here state the authorities or cases with references.]
+**6.** The defendant cited [Here state the authorities or cases with references.]
 
 *Opinion.*
 
-7. I was of opinion [here set out the opinion formed by the magistrate either in convicting, making an order, or dismissing, or as the case may be].
+**7.** I was of opinion [here set out the opinion formed by the magistrate either in convicting, making an order, or dismissing, or as the case may be].
 
 *Question.*
 
-8. The question submitted for the opinion of the Court of Appeal is, whether upon the above statement of facts the District Court came to a correct decision in point of law, and if not, what should be done in the premises.
+**8.** The question submitted for the opinion of the Court of Appeal is, whether upon the above statement of facts the District Court came to a correct decision in point of law, and if not, what should be done in the premises.
 
 Dated [etc., as in No. 8]
 
@@ -17838,7 +17838,7 @@ that medical practitioner or other person shall make a report in writing to that
 
 ### EXTENSION OF EXTRA MURAL ORDER
 
-12. Where—
+**12.** Where—
 
 (a) an extra mural order is in force in respect of an offender; and
 
@@ -17848,7 +17848,7 @@ the Court may, in relation to the order, extend the period specified in the orde
 
 ### SUPPLEMENTAL
 
-13. An application may not be made under paragraph 10 or 12 while an appeal against the relevant order is pending.
+**13.** An application may not be made under paragraph 10 or 12 while an appeal against the relevant order is pending.
 
 14.
 

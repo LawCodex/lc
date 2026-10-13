@@ -4,6 +4,7 @@ identifier: "bank-holidays-act"
 type: act
 jurisdiction: lc
 language: en
+enactment: "Law 33 of 1889, Acts 4 of 1897, 7 of 1901, 14 of 1920, 20 of 1954, 7 of 1958, 3 of 1964, 15 of 1964, 6 of 1966, 19 of 1984, 20 of 2000 and 5 of 2004"
 last_amended: 2023-12-31
 status: in_force
 source: "https://attorneygeneralchambers.com/laws-of-saint-lucia/bank-holidays-act"

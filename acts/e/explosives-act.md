@@ -4,6 +4,7 @@ identifier: "explosives-act"
 type: act
 jurisdiction: lc
 language: en
+enactment: "Consolidated Acts appearing as chapter 75 of the 1889 Revised Laws of Saint Lucia, Acts 13 of 1899, 15 of 1921 and 22 of 1964"
 last_amended: 2023-12-31
 status: in_force
 source: "https://attorneygeneralchambers.com/laws-of-saint-lucia/explosives-act"

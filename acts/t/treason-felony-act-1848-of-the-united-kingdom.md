@@ -4,6 +4,7 @@ identifier: "treason-felony-act-1848-of-the-united-kingdom"
 type: act
 jurisdiction: lc
 language: en
+enactment: "1848 CHAPTER 12"
 last_amended: 2023-12-31
 status: in_force
 source: "https://attorneygeneralchambers.com/laws-of-saint-lucia/treason-felony-act-1848-of-the-united-kingdom"
